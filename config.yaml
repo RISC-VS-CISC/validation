@@ -1,0 +1,8 @@
+---
+timeout: 5
+bitfile: "noelv_arty_b4295.bit"
+serial: "ttyUSB1"
+output: "test_results.xlsx"
+vivado: "/home/Brandon/apps/Vivado/2024.1/bin/vivado"
+upload_cmd: "./grmon "
+---
